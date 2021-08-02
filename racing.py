@@ -1,4 +1,4 @@
-"""Hi Everyone. This game is simple car racing game"""
+"""Hi Everyone. This game is simple car racing game to enjoy ride"""
 
 import pygame
 import random
